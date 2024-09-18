@@ -1,4 +1,4 @@
-# Code Automation Python Scripts Repository
+# Code Automation Scripts Repository
 
 Welcome to the **Code Automation Scripts** repository! This repo contains a collection of useful scripts designed to streamline and accelerate your coding workflow. Whether you're looking to automate repetitive tasks or optimize performance, this repository has tools to make the coding process more efficient.
 
